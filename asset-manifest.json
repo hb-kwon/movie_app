@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hb-kwon/React_JS/movie-app/static/css/main.3d8b181a.chunk.css",
+    "main.js": "/hb-kwon/React_JS/movie-app/static/js/main.88e8fd5f.chunk.js",
+    "main.js.map": "/hb-kwon/React_JS/movie-app/static/js/main.88e8fd5f.chunk.js.map",
+    "runtime-main.js": "/hb-kwon/React_JS/movie-app/static/js/runtime-main.19eab182.js",
+    "runtime-main.js.map": "/hb-kwon/React_JS/movie-app/static/js/runtime-main.19eab182.js.map",
+    "static/js/2.cc16e8eb.chunk.js": "/hb-kwon/React_JS/movie-app/static/js/2.cc16e8eb.chunk.js",
+    "static/js/2.cc16e8eb.chunk.js.map": "/hb-kwon/React_JS/movie-app/static/js/2.cc16e8eb.chunk.js.map",
+    "index.html": "/hb-kwon/React_JS/movie-app/index.html",
+    "static/css/main.3d8b181a.chunk.css.map": "/hb-kwon/React_JS/movie-app/static/css/main.3d8b181a.chunk.css.map",
+    "static/js/2.cc16e8eb.chunk.js.LICENSE.txt": "/hb-kwon/React_JS/movie-app/static/js/2.cc16e8eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19eab182.js",
+    "static/js/2.cc16e8eb.chunk.js",
+    "static/css/main.3d8b181a.chunk.css",
+    "static/js/main.88e8fd5f.chunk.js"
+  ]
+}
